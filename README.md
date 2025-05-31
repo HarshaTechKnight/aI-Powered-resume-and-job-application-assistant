@@ -110,7 +110,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Sri Harsha**  
 Email: [sriharsha0413@gmail.com](mailto:sriharsha0413@gmail.com)  
-LinkedIn: [Sri Harsha]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/sri-harsha-b932102b7/))  
+LinkedIn:([Linked In](https://www.linkedin.com/in/sri-harsha-b932102b7/))  
 Location: Hyderabad, Telangana, India
 
 ---
