@@ -73,13 +73,11 @@ Visit `http://localhost:5173` in your browser.
 ## Screenshots
 
 <!-- Add screenshots of your tool’s main UI, feedback results, and before/after examples here. Example: -->
-![Home Page]
 ![image](https://github.com/user-attachments/assets/fe139b29-c6b9-4157-a6ae-52c874c3f15f)
-![AI Feedback]
-(![image](https://github.com/user-attachments/assets/cf006b01-b55a-4968-993e-98807d2c00c9)
+![image](https://github.com/user-attachments/assets/cf006b01-b55a-4968-993e-98807d2c00c9)
 ![image](https://github.com/user-attachments/assets/41cfb8d5-44fb-4d39-a557-be42e10a8fbb)
 ![image](https://github.com/user-attachments/assets/7ee9e567-8cd2-4733-a112-d34b890fa0b3)
-![image](https://github.com/user-attachments/assets/ebdc7219-5f5b-4036-8ca5-8b9e55cff7ff))
+![image](https://github.com/user-attachments/assets/ebdc7219-5f5b-4036-8ca5-8b9e55cff7ff)
 
 
 
